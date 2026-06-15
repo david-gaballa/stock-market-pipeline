@@ -582,10 +582,10 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 👤 Author
 
-**[Your Name]**
-- Email: [your.email@email.com]
-- LinkedIn: [linkedin.com/in/yourprofile]
-- GitHub: [@yourname](https://github.com/yourname)
+**David Gaballa**
+- Email: david.y.gaballa@gmail.com
+- LinkedIn: www.linkedin.com/in/david-gaballa
+- GitHub: [@DavidGaballa](https://github.com/david-gaballa)
 
 ---
 
@@ -620,5 +620,5 @@ For questions or issues:
 
 ---
 
-**Last Updated**: January 2024
+**Last Updated**: June 2026
 **Status**: ✓ Production Ready
